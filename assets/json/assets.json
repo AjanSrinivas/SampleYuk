@@ -1,0 +1,46 @@
+[
+    {
+        "id": "365cbcb3-ced5-4c1f-a39e-d6731909b930",
+        "name": "Mill",
+        "description": "Dhall Mill",
+        "assetType": "ONFARM",
+        "doesOwn": true,
+        "count": 6,
+        "monetaryValue": 15000,
+        "dateAcquired": null,
+        "notes": "No notes"
+    },
+    {
+        "id": "a042a74e-f6f8-4b37-a3a7-82c01fa20ae3",
+        "name": "Tractor",
+        "description": "Tractor",
+        "assetType": "ONFARM",
+        "doesOwn": true,
+        "count": 6,
+        "monetaryValue": 15000,
+        "dateAcquired": null,
+        "notes": "No notes"
+    },
+    {
+        "id": "ba4e7dae-e985-4dbb-9f9e-73e9692e2a88",
+        "name": "Corp Building",
+        "description": "Corporate Building NAFPCL",
+        "assetType": "LAND",
+        "doesOwn": true,
+        "count": 3,
+        "monetaryValue": 23000,
+        "dateAcquired": null,
+        "notes": "No notes"
+    },
+    {
+        "id": "8c0db6e0-887c-4491-aabe-508f9b94a45f",
+        "name": "Cows",
+        "description": "Cows",
+        "assetType": "LIVESTOCK",
+        "doesOwn": true,
+        "count": 6,
+        "monetaryValue": 15000,
+        "dateAcquired": null,
+        "notes": "No notes"
+    }
+]

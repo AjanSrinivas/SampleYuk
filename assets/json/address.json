@@ -1,0 +1,32 @@
+[
+    {
+        "id": "59432712-2022-4755-9010-8bef24fde99f",
+        "line1": "450A Pattikaadu Campus ",
+        "state": "Tamil Nadu",
+        "addressType": "REGISTERED",
+        "line2": "Malaikkudipatti (PO), Illuppur(TK)",
+        "panchayat": "Illuppur",
+        "village": "Kovindhanyakkanpatti",
+        "taluk": "Illuppur",
+        "district": "Pudukkottai",
+        "city": "Illuppur",
+        "pincode": 622102,
+        "company": null,
+        "organization": null
+    },
+    {
+        "id": "801a2f1b-1d7a-459d-b52e-64a1df508c9b",
+        "line1": "Store1",
+        "state": "Tamil Nadu",
+        "addressType": "BUSINESS",
+        "line2": "Malaikkudipatti (PO), Illuppur(TK)",
+        "panchayat": "Illuppur",
+        "village": "Kovindhanyakkanpatti",
+        "taluk": "Illuppur",
+        "district": "Pudukkottai",
+        "city": "Illuppur",
+        "pincode": 622102,
+        "company": null,
+        "organization": null
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "id": "20b12794-fbdc-4783-93ab-f33b368fb817",
+        "name": "Chick - Week Old",
+        "commodityType": {
+            "id": "41cf0ec7-a675-4aaf-a1ed-5b49ac88d9a5",
+            "name": "Poultry",
+            "subType": "LIVESTOCK"
+        }
+    },
+    {
+        "id": "b80a6d57-6ec7-4ce1-9f8e-23ef33c675f4",
+        "name": "CR",
+        "commodityType": {
+            "id": "e5044435-2fd0-4139-877d-d3008fc4bf82",
+            "name": "Rice",
+            "subType": "FOODGRAINS"
+        }
+    },
+    {
+        "id": "bcd7f826-e5e2-452a-a7fb-d0868616ccf6",
+        "name": "Chicken Egg",
+        "commodityType": {
+            "id": "41cf0ec7-a675-4aaf-a1ed-5b49ac88d9a5",
+            "name": "Poultry",
+            "subType": "LIVESTOCK"
+        }
+    },
+    {
+        "id": "22a4bae0-219a-4470-b9b6-bf322b0d22c3",
+        "name": "Chick - Day Old",
+        "commodityType": {
+            "id": "41cf0ec7-a675-4aaf-a1ed-5b49ac88d9a5",
+            "name": "Poultry",
+            "subType": "LIVESTOCK"
+        }
+    },
+    {
+        "id": "4e39ee16-ce08-4c90-9c6e-3bb33658cfad",
+        "name": "Amrutha",
+        "commodityType": {
+            "id": "e5044435-2fd0-4139-877d-d3008fc4bf82",
+            "name": "Rice",
+            "subType": "FOODGRAINS"
+        }
+    },
+    {
+        "id": "a233fc42-16ec-4406-821d-06bfa0548314",
+        "name": "Akshaya",
+        "commodityType": {
+            "id": "e5044435-2fd0-4139-877d-d3008fc4bf82",
+            "name": "Rice",
+            "subType": "FOODGRAINS"
+        }
+    },
+    {
+        "id": "629160db-318a-4ede-9632-6defdd52957d",
+        "name": "Delux Ponni",
+        "commodityType": {
+            "id": "e5044435-2fd0-4139-877d-d3008fc4bf82",
+            "name": "Rice",
+            "subType": "FOODGRAINS"
+        }
+    }
+]
